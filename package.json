@@ -1,0 +1,14 @@
+{
+  "name": "cinemax-backend",
+  "version": "1.0.0",
+  "description": "CINEMAX Movie Streaming Website - Backend API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "keywords": ["cinemax", "movies", "nodejs", "api"],
+  "author": "CINEMAX Project"
+}
